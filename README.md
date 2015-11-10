@@ -2,9 +2,7 @@
 
 [pushy-notify v1.0.0](https://www.npmjs.com/package/pushy-notify)
 
-A small [node.js](http://nodejs.org) library for push notifications using pushy.
-
-for more info visit [pushy](https://pushy.me)
+A small [node.js](http://nodejs.org) library for push notifications using pushy. for more info visit [pushy](https://pushy.me)
 
 ## How to use
 
