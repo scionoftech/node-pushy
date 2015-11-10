@@ -1,6 +1,6 @@
 {
   "name": "pushy-notify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small node.js library for push notifications using pushy.",
   "main": "pushy.js",
   "dependencies": {
