@@ -1,0 +1,31 @@
+{
+  "name": "pushy-notify",
+  "version": "1.0.0",
+  "description": "A small node.js library for push notifications using pushy.",
+  "main": "pushy.js",
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node app.js"
+  },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/scionoftech/pushy-notify.git"
+  },
+  "keywords": [
+    "pushy",
+    "pushy-notify",
+    "notifications"
+  ],
+ "files": [
+    "LICENSE",
+    "README.md",
+    "app.js",
+    "pushy.js",
+    "pushy-notify.png"
+  ],
+  "author": "scionoftech",
+  "license": "MIT"
+}
