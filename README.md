@@ -1,5 +1,3 @@
-# pushy-notify
-
 [![pushy-notify Logo](https://github.com/scionoftech/pushy-notify/blob/Development/pushy-notify.png)](https://www.npmjs.com/package/pushy-notify)
 
 [pushy-notify v1.0.0](https://www.npmjs.com/package/pushy-notify)
